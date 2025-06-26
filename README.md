@@ -28,4 +28,3 @@ This project uses the **Housing Dataset** to predict house prices based on vario
 
 ---
 
-## 📁 File Structure
