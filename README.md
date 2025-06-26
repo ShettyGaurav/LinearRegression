@@ -27,4 +27,25 @@ This project uses the **Housing Dataset** to predict house prices based on vario
 - **Jupyter Notebook / Python Script**
 
 ---
+##  Model Training
 
+- The dataset was split into training (80%) and test (20%) sets.
+- The model used: `LinearRegression()`
+- Evaluation results:
+  
+  - **R² Score**: `0.2861`
+  - **MAE**: `1341.5115869796873`
+---
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ShettyGaurav/LinearRegression.git
+   ```
+2. Run the Jupyter Notebook:
+   ```bash
+   jupyter notebook
+   ```
+##  Acknowledgements
+
+- [Housing Dataset](https://www.kaggle.com/datasets/yasserh/housing-prices-dataset)
+- [Linear Regression Documentation](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html)
